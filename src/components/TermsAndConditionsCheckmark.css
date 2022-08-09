@@ -1,0 +1,20 @@
+.terms-and-conditions-checkmark {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.terms-and-conditions-checkmark-text {
+    margin-left: 0.5rem;
+}
+
+.terms-conditions-link,
+.terms-conditions-link:hover,
+.terms-conditions-link:active,
+.terms-conditions-link:visited {
+    text-decoration: none;
+    color: rgb(16, 255, 140);
+}

@@ -1,0 +1,23 @@
+.input-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 0.6rem;
+    margin-bottom: 1rem;
+}
+
+.input-label {
+    margin: 0.4rem;
+    margin-left: 0.8rem;
+    font-size: 0.9rem;
+}
+
+.input {
+    width: 95%;
+    font-size: 0.9rem;
+    padding: 0.8rem 0.6rem;
+    border-radius: 50px;
+    border: 2px solid rgb(16, 255, 140);
+    background-color: inherit;
+    color: white;
+}
